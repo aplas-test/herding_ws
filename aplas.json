@@ -18,7 +18,28 @@
       "end_of_life": "24/10/18",
       "months_to_renew_support": "22",
       "sme_email": "Gina.Grassin@memento.net.au",
-      "investment_number": "490"
+      "investment_number": "490",
+      "integrations": [
+        {
+          "id": "int-406",
+          "name": "INT-406",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
+          "sourceApplicationId": "herding_ws",
+          "targetApplicationId": "fulfilment_science",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Fire and Forget",
+          "golive_date": "4/5/05",
+          "sme_name": "Flem Mungan",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "fmungan4@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "10/9/15"
+        }
+      ]
     }
   ]
 }
