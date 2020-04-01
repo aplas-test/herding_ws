@@ -25,7 +25,6 @@
           "name": "INT-406",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
-          "sourceApplicationId": "herding_ws",
           "targetApplicationId": "fulfilment_science",
           "logical_server": "BATCH",
           "status_color": "#00FF00",
